@@ -1,0 +1,17 @@
+{
+  "name": "spinergie-test",
+  "version": "1.0.0",
+  "description": "technical test for spinergie, from b liscouet",
+  "main": "parser.js",
+  "scripts": {
+    "test": "npx ts-node parser.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.3.5"
+  },
+  "devDependencies": {
+    "@types/node": "^15.14.0"
+  }
+}
